@@ -1,0 +1,5 @@
+{
+  "name": "Real-Time Image Editor",
+  "description": "An interactive web application that allows users to upload an image and edit it in real-time using text prompts powered by the Google Gemini API.",
+  "requestFramePermissions": []
+}
